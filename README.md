@@ -1,6 +1,6 @@
-## Hi there 👋👋
+# Hi there 👋👋
 
-# Who am I ?
+## Who am I ?
 
 Just a jobless student 
 
